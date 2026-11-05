@@ -1,6 +1,6 @@
 # ajty.cz
 
-Website of AjTy, s.r.o. — https://ajty.cz
+Website of AjTy, s.r.o., https://ajty.cz
 
 Plain static site in `public/`, no build step. Every push to `main` runs the tests and deploys `public/` to GitHub Pages.
 
